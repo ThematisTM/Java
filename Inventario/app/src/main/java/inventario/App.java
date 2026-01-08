@@ -13,10 +13,9 @@ public class App {
         Producto producto1 = new Producto("Laptop", 1500.00, 10, "LP1001");
         Producto producto2 = new Producto("Smartphone", 800.00, 25, "SP2002");
         
-        System.out.println(producto1.getNombre());
 
-        //producto1.mostrarProducto();
-        //producto2.mostrarProducto();
+        producto1.mostrarProducto();
+        producto2.mostrarProducto();
     }
 
 }

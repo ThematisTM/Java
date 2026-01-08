@@ -17,7 +17,6 @@ public class App {
         producto1.mostrarProducto();
         producto2.mostrarProducto();
 
-        
     }
 
 }
